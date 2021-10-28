@@ -4,8 +4,8 @@ This repository contains sample code and additional resources for the "C# Interf
 ## Code Samples
 The code samples are in folders starting with the environment (net50), followed by the course module (module1). From there, the "before" and "after" folders contain the code at the beginning of the demo and the code at the end of the demo, respectively.
 
-## Pluralsight Course
-* [C# Interfaces](http://www.pluralsight.com/courses/c-sharp-interfaces) by Jeremy Clark (released Jun 2021)  
+## Pluralsight Course 
+* Esta es una practica del curso... [C# Interfaces](http://www.pluralsight.com/courses/c-sharp-interfaces) by Jeremy Clark (released Jun 2021)  
 
 To see what is new and changed from the previous course, please see [ChangeLog.md](/ChangeLog.md).
 
